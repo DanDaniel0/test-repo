@@ -17,4 +17,4 @@ public class AddtionCalc {
         return(num1+num2);
     }
     
-}
+} 
